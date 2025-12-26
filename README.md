@@ -1,5 +1,5 @@
 
-```markdown
+
 # KnowBot - Personal RAG Chatbot (100% Local & Private)
 
 A beautiful, fully offline personal knowledge chatbot that lets you chat with your own documents using **Retrieval-Augmented Generation (RAG)**.  
