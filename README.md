@@ -1,4 +1,8 @@
+## Demo (60-second silent walkthrough)
 
+[![KnowBot in Action](demo/thumbnail.png)](https://github.com/bhargavhegde/RAG-KnowBot/raw/main/demo/knowbot_demo.mp4)
+
+Click the image above to play the 60-second silent demo.
 
 # KnowBot - Personal RAG Chatbot (100% Local & Private)
 
