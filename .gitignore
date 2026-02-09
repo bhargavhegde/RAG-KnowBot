@@ -27,3 +27,6 @@ Thumbs.db
 # Large archives
 *.zip
 *.tar.gz
+
+# Interview Notes
+notes/
